@@ -1,0 +1,16 @@
+/* Center the camera preview */
+#camera-stream {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Style the capture button */
+#capture-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #0074D9;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
